@@ -1,2 +1,8 @@
 .erlang.mk/
 mysql_poolboy.d
+
+deps/
+ebin/
+
+*.iml
+.idea
